@@ -12,6 +12,11 @@ Day 6 - Let's Review
 Day 7 - Arrays
 Day 8 - Dictionaries and Maps
 Day 9 - Recursion 3
+Day 10 - Binary Numbers
+Day 11 - 2D Arrays
+Day 12 - Inheritance
+Day 13 - Abstract Classes
+Day 14 - Scope
 ```
 
 Python:
@@ -27,6 +32,10 @@ Python If-Else
 Say Hello, World! With Python
 Tuples
 Write a function
+Arithmetic Operators
+Finding the percentage
+Nested Lists
+String Split and Join
 ```
 
 Problem and Solution:
