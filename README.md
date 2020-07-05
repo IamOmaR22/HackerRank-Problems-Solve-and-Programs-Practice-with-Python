@@ -18,6 +18,7 @@ Day 12 - Inheritance
 Day 13 - Abstract Classes
 Day 14 - Scope
 Day 15 - Linked List
+Day 16 - Exceptions - String to Integer
 ```
 
 Python:
@@ -33,10 +34,10 @@ Python If-Else
 Say Hello, World! With Python
 Tuples
 Write a function
-Arithmetic Operators
 Finding the percentage
 Nested Lists
 String Split and Join
+What's Your Name?
 ```
 
 Problem and Solution:
