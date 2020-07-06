@@ -19,6 +19,7 @@ Day 13 - Abstract Classes
 Day 14 - Scope
 Day 15 - Linked List
 Day 16 - Exceptions - String to Integer
+Day 17 - More Exceptions
 ```
 
 Python:
@@ -38,6 +39,7 @@ Finding the percentage
 Nested Lists
 String Split and Join
 What's Your Name?
+Mutations
 ```
 
 Problem and Solution:
