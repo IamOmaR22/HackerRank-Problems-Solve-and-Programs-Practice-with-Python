@@ -42,6 +42,12 @@ What's Your Name?
 Mutations
 ```
 
+Computer Graphics Algorithm:
+```
+DDA_Algorithm
+Bresenham's_line_algorithm
+```
+
 Problem and Solution:
 ```
 Grade_Calculator
