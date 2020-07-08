@@ -48,6 +48,13 @@ DDA_Algorithm
 Bresenham's_line_algorithm
 ```
 
+Computer Graphics Algorithms Using Jupyter:
+```
+DDA_Algorithm
+Bresenham's_line_algorithm
+Mid-Point_Circle_Algorithm
+```
+
 Problem and Solution:
 ```
 Grade_Calculator
