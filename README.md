@@ -20,6 +20,8 @@ Day 14 - Scope
 Day 15 - Linked List
 Day 16 - Exceptions - String to Integer
 Day 17 - More Exceptions
+Day 18 - Queues and Stacks
+Day 19 - Interfaces
 ```
 
 Python:
@@ -40,6 +42,7 @@ Nested Lists
 String Split and Join
 What's Your Name?
 Mutations
+Find a string
 ```
 
 Computer Graphics Algorithm:
