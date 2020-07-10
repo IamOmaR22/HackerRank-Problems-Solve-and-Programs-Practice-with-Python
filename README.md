@@ -22,6 +22,7 @@ Day 16 - Exceptions - String to Integer
 Day 17 - More Exceptions
 Day 18 - Queues and Stacks
 Day 19 - Interfaces
+Day 21 - Generics
 ```
 
 Python:
@@ -43,6 +44,7 @@ String Split and Join
 What's Your Name?
 Mutations
 Find a string
+String Validators
 ```
 
 Computer Graphics Algorithm:
