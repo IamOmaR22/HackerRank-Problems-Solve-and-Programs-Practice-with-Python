@@ -1,4 +1,4 @@
-# HackerRank Problems Solve and Programs Practice Using Python
+# HackerRank Problems Solve and Programs Practice Using Python 3
 
 30 Days of Code (HackerRank):
 ```
