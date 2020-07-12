@@ -47,6 +47,7 @@ What's Your Name?
 Mutations
 Find a string
 String Validators
+Text Alignment
 ```
 
 Computer Graphics Algorithm:
