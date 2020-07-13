@@ -25,6 +25,7 @@ Day 19 - Interfaces
 Day 21 - Generics
 Day 22 - Binary Search Trees
 Day 23 - BST Level-Order Traversal
+Day 24 - More Linked Lists
 ```
 
 Python:
@@ -48,6 +49,7 @@ Mutations
 Find a string
 String Validators
 Text Alignment
+Text Wrap
 ```
 
 Computer Graphics Algorithm:
