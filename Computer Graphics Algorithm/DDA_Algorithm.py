@@ -24,4 +24,4 @@ def drawDDA(x1,y1,x2,y2):
 
     print ('x = %s, y = %s' % (((ROUND(x),ROUND(y)))))
 
-drawDDA(15,27,26,33)
+drawDDA(25,35,35,41)
