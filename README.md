@@ -68,4 +68,7 @@ Mid-Point_Circle_Algorithm
 Problem and Solution:
 ```
 Grade_Calculator
+Problem + Solve
+Problem + Solve2
+Problem + Solve3
 ```
