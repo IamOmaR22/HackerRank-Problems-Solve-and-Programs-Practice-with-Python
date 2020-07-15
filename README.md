@@ -27,6 +27,7 @@ Day 22 - Binary Search Trees
 Day 23 - BST Level-Order Traversal
 Day 24 - More Linked Lists
 Day 25 - Running Time and Complexity
+Day 26 - Nested Logic
 ```
 
 Python:
@@ -51,6 +52,7 @@ Find a string
 String Validators
 Text Alignment
 Text Wrap
+Designer Door Mat
 ```
 
 Computer Graphics Algorithm:
