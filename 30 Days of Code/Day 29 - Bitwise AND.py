@@ -1,3 +1,4 @@
+# Solution - 1
 #!/bin/python3
 
 T = int(input())
@@ -16,3 +17,16 @@ for i in range(T):
                 maximum = h
 
     print(maximum)
+
+
+# Solution - 2
+#!/bin/python3
+
+import sys
+
+
+t = int(input().strip())
+for a0 in range(t):
+    n, k = input().strip().split(' ')
+    n, k = [int(n), int(k)]
+    print(k-1 if ((k-1) | k) <= n else k-2)
