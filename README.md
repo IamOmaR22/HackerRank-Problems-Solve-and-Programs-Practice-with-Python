@@ -56,6 +56,9 @@ String Validators
 Text Alignment
 Text Wrap
 Designer Door Mat
+sWAP cASE
+String Formatting
+Alphabet Rangoli
 ```
 
 Computer Graphics Algorithm:
