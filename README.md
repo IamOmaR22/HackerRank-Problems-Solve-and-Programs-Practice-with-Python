@@ -80,4 +80,6 @@ Grade_Calculator
 Problem + Solve
 Problem + Solve2
 Problem + Solve3
+hex_to_decimal
+hex_to_rgb
 ```
