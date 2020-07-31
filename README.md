@@ -59,6 +59,7 @@ Designer Door Mat
 sWAP cASE
 String Formatting
 Alphabet Rangoli
+Capitalize!
 ```
 
 Computer Graphics Algorithm:
