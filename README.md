@@ -63,6 +63,8 @@ Capitalize!
 The Minion Game
 Merge the Tools!
 Iterables and Iterators
+collections.Counter()
+DefaultDict Tutorial
 ```
 
 Computer Graphics Algorithm:
