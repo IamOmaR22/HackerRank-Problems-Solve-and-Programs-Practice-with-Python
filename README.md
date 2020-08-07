@@ -60,6 +60,9 @@ sWAP cASE
 String Formatting
 Alphabet Rangoli
 Capitalize!
+The Minion Game
+Merge the Tools!
+Iterables and Iterators
 ```
 
 Computer Graphics Algorithm:
