@@ -65,6 +65,10 @@ Merge the Tools!
 Iterables and Iterators
 collections.Counter()
 DefaultDict Tutorial
+itertools.product()
+itertools.permutations()
+itertools.combinations()
+itertools.combinations_with_replacement()
 ```
 
 Computer Graphics Algorithm:
