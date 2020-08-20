@@ -70,6 +70,9 @@ itertools.permutations()
 itertools.combinations()
 itertools.combinations_with_replacement()
 Polar Coordinates
+Introduction to Sets
+Symmetric Difference
+No Idea!
 ```
 
 Computer Graphics Algorithm:
