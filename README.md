@@ -76,6 +76,9 @@ No Idea!
 Calendar Module
 Time Delta
 Exceptions
+Collections.namedtuple()
+Collections.OrderedDict()
+Word Order
 ```
 
 Computer Graphics Algorithm:
