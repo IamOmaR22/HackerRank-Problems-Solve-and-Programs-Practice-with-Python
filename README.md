@@ -73,6 +73,9 @@ Polar Coordinates
 Introduction to Sets
 Symmetric Difference
 No Idea!
+Calendar Module
+Time Delta
+Exceptions
 ```
 
 Computer Graphics Algorithm:
