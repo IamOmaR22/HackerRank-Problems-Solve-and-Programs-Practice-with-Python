@@ -79,6 +79,7 @@ Exceptions
 Collections.namedtuple()
 Collections.OrderedDict()
 Word Order
+Find Angle MBC
 ```
 
 Computer Graphics Algorithm:
