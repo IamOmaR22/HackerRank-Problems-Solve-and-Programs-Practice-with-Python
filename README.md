@@ -80,6 +80,8 @@ Collections.namedtuple()
 Collections.OrderedDict()
 Word Order
 Find Angle MBC
+Triangle Quest 2
+Mod Divmod
 ```
 
 Computer Graphics Algorithm:
