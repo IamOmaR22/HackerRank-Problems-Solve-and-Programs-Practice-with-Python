@@ -82,6 +82,9 @@ Word Order
 Find Angle MBC
 Triangle Quest 2
 Mod Divmod
+Incorrect Regex
+Triangle Quest
+Piling Up!
 ```
 
 Computer Graphics Algorithm:
