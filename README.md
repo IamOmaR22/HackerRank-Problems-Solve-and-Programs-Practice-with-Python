@@ -87,6 +87,7 @@ Triangle Quest
 Piling Up!
 Set .add()
 Set .discard(), .remove() & .pop()
+Collections.deque()
 ```
 
 Computer Graphics Algorithm:
