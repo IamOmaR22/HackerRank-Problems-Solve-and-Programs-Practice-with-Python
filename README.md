@@ -85,6 +85,8 @@ Mod Divmod
 Incorrect Regex
 Triangle Quest
 Piling Up!
+Set .add()
+Set .discard(), .remove() & .pop()
 ```
 
 Computer Graphics Algorithm:
