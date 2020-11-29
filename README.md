@@ -88,6 +88,9 @@ Piling Up!
 Set .add()
 Set .discard(), .remove() & .pop()
 Collections.deque()
+Compress the String!
+Maximize It!
+Validating Roman Numerals
 ```
 
 Computer Graphics Algorithm:
