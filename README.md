@@ -1,6 +1,6 @@
 # HackerRank Problems Solve and Programs Practice Using Python 3
 
-30 Days of Code (HackerRank):
+## 30 Days of Code (HackerRank)
 ```
 Day 0 - Hello, World
 Day 1 - Data Types
@@ -33,7 +33,7 @@ Day 28 - RegEx, Patterns, and Intro to Databases
 Day 29 - Bitwise AND
 ```
 
-Python:
+## Python
 ```
 Arithmetic Operators
 Find the Runner-Up Score!
@@ -93,20 +93,22 @@ Maximize It!
 Validating Roman Numerals
 ```
 
-Computer Graphics Algorithm:
+### Real-Time-Object-Recognition-in-Keras
+
+## Computer Graphics Algorithm
 ```
 DDA_Algorithm
 Bresenham's_line_algorithm
 ```
 
-Computer Graphics Algorithms Using Jupyter:
+## Computer Graphics Algorithms Using Jupyter
 ```
 DDA_Algorithm
 Bresenham's_line_algorithm
 Mid-Point_Circle_Algorithm
 ```
 
-Problem and Solution:
+## Problem and Solution
 ```
 Grade_Calculator
 Problem + Solve
