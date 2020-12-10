@@ -1,8 +1,8 @@
 # HackerRank Problems Solve and Programs Practice Using Python 3
 ---
-# 30 Days of Code (HackerRank)
+## 30 Days of Code (HackerRank)
 ---
-# Python
+## Python
 ---
 ### Real-Time-Object-Recognition-in-Keras
 ---
