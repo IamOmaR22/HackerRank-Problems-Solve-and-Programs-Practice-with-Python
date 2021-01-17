@@ -62,6 +62,9 @@ Set .union() Operation
 Set .intersection() Operation
 Set .difference() Operation
 Set .symmetric_difference() Operation
+Power - Mod Power
+Integers Come In All Sizes
+Regex Substitution
 ```
 
 Let's celebrate 🍕🍰🍕
