@@ -65,6 +65,9 @@ Set .symmetric_difference() Operation
 Power - Mod Power
 Integers Come In All Sizes
 Regex Substitution
+Set Mutations
+The Captain's Room
+Check Subset
 ```
 
 Let's celebrate 🍕🍰🍕
