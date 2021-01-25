@@ -68,6 +68,8 @@ Regex Substitution
 Set Mutations
 The Captain's Room
 Check Subset
+Check Strict Superset
+XML 1 - Find the Score
 ```
 
 Let's celebrate 🍕🍰🍕
